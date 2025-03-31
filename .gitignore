@@ -21,6 +21,7 @@ wheels/
 *.egg
 MANIFEST
 .idea/
+car1.model.keras
 
 # Virtual environment
 venv/
