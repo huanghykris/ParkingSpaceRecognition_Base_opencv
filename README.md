@@ -1,1 +1,3 @@
-# ParkingSpaceRecognition_Base_opencv
+### 停车场车位识别
+1.检测车位
+2.找到每一个位置的情况
